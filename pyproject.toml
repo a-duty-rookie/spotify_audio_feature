@@ -11,6 +11,12 @@ dependencies = [
     "pyyaml (>=6.0.3,<7.0.0)",
     "beautifulsoup4 (>=4.14.0,<5.0.0)",
     "neologdn (>=0.5.4,<0.6.0)",
+    "fugashi (>=1.5.1,<2.0.0)",
+    "ipadic (>=1.0.0,<2.0.0)",
+    "protobuf (>=6.32.1,<7.0.0)",
+    "unidic-lite (>=1.0.8,<2.0.0)",
+    "wordcloud (>=1.9.4,<2.0.0)",
+    "nbformat (>=5.10.4,<6.0.0)",
 ]
 
 
